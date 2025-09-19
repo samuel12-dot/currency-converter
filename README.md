@@ -6,10 +6,10 @@
 
 ![Currency Converter](currency converter)
 
-## 📝 Description
+## Description
 Convert amounts between currencies using live exchange rates with support for swapping currencies.
 
-## 📖 Full Description
+## Full Description
 The **Currency Converter** is a practical and efficient web application built with React. It fetches live exchange rates through APIs and provides seamless conversion between different currencies. Designed with usability in mind, the app allows users to quickly input values, select currencies, and swap them instantly.
 
 - **Live Demo:** [Currency Converter](https://currency-converter-seven-peach.vercel.app/)  
@@ -17,7 +17,7 @@ The **Currency Converter** is a practical and efficient web application built wi
 
 ---
 
-## 🔍 Overview
+## Overview
 This tool simplifies currency conversion by delivering accurate, real-time results through API integration. With its responsive and intuitive interface, the app is ideal for travelers, businesses, and anyone managing cross-currency transactions.
 
 ### Features
